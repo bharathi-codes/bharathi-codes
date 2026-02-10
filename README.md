@@ -52,7 +52,7 @@
 
 | [🎯 About Me](#-about-me) | [💻 Tech Stack](#-tech-stack) | [🏆 Achievements](#-achievements--certifications) |
 |:---:|:---:|:---:|
-| [🌐 Portfolio](#-portfolio) | [📫 Connect](#-connect-with-me) | [💡 Quote](#-daily-dev-quote) |
+| [🌐 Portfolio](#-portfolio) | [📫 Connect](#-connect-with-me) | [💖 Support](#-support-my-work) |
 
 </div>
 
@@ -300,20 +300,6 @@ const bharathi = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 💡 Daily Dev Quote
-
-<div align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=00D9FF" alt="Random Dev Quote"/>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
 ## 🎮 When I'm Not Coding
 
 <div align="center">
@@ -350,161 +336,6 @@ const bharathi = {
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Getting Started with Full Stack Development](#)
-- 🔥 [10 JavaScript Tips Every Developer Should Know](#)
-- 📱 [Building Your First Flutter App](#)
-- 💡 [Understanding React Hooks in Depth](#)
-- 🎨 [Modern CSS Techniques for 2024](#)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-<a href="YOUR_BLOG_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/📖_Read_More_Articles-00D9FF?style=for-the-badge&logo=medium&logoColor=black" alt="Blog"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 💖 Support My Work
-
-<div align="center">
-
-<p>If you like my work and want to support me, consider buying me a coffee! ☕</p>
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
-
-<br>
-
-<p><em>⭐ Star my repositories if you find them useful!</em></p>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 📊 Repository Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Total_Repos-25+-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Total_Stars-100+-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Total_Forks-50+-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Contributions-500+-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🎨 Fun Section
-
-<div align="center">
-
-### 🎯 Random Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF" alt="Jokes Card" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🌈 Skills Progress Bar
-
-<div align="center">
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-90%25-00D9FF?style=for-the-badge&logo=react&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-95%25-00D9FF?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-88%25-00D9FF?style=for-the-badge&logo=javascript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-85%25-00D9FF?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend Development
-![Firebase](https://img.shields.io/badge/Firebase-80%25-00D9FF?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-82%25-00D9FF?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-75%25-00D9FF?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-70%25-00D9FF?style=for-the-badge&logo=java&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-92%25-00D9FF?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-95%25-00D9FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-78%25-00D9FF?style=for-the-badge&logo=linux&logoColor=white)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🎓 Learning Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[HTML/CSS] --> B[JavaScript]
-    B --> C[React]
-    C --> D[Full Stack]
-    B --> E[Python]
-    E --> F[Backend Dev]
-    C --> G[Mobile Dev]
-    G --> H[Flutter]
-    D --> I[Advanced Projects]
-    F --> I
-    H --> I
-```
 
 </div>
 
@@ -589,28 +420,34 @@ If you have an exciting project or job opportunity, let's talk!
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🎉 Thank You for Visiting!
+## 💖 Support My Work
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
+
+<br><br>
+
+<p>If you like my work and want to support me, consider buying me a coffee! ☕</p>
+
+<br>
+
+<a href="https://buymeacoffee.com/bharathi_2005" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+<a href="https://ko-fi.com/bharathi_2005" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+</a>
+
+<br><br>
+
+<p><em>⭐ Star my repositories if you find them useful!</em></p>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100px" />
 
 <br>
-
-<h3>Thanks for stopping by! 😊</h3>
-
-<p>
-If you liked my profile, don't forget to ⭐ star some repositories!<br>
-Connect with me on social media and let's build something amazing together! 🚀
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-
-<br><br>
 
 <p>
 <img src="https://img.shields.io/badge/Made_with-❤️-00D9FF?style=for-the-badge" />
@@ -620,14 +457,8 @@ Connect with me on social media and let's build something amazing together! 🚀
 
 <br>
 
-### 📊 Visitor Count
-
-<img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
-
-<br><br>
-
 <p align="center">
-  <i>⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Bharathi B.</a></i>
+  <i>Thanks for visiting! ⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Bharathi B.</a></i>
 </p>
 
 </div>
@@ -643,7 +474,7 @@ Connect with me on social media and let's build something amazing together! 🚀
     ║                                                                               ║
     ║                          Keep Coding, Keep Learning! 🚀                       ║
     ║                                                                               ║
-    ║                              © 2026 Bharathi B.                               ║
+    ║                              © 2024 Bharathi B.                               ║
     ║                                                                               ║
     ╚═══════════════════════════════════════════════════════════════════════════════╝
 -->
