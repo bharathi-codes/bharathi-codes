@@ -50,10 +50,9 @@
 
 <div align="center">
 
-| [🎯 About Me](#-about-me) | [💻 Tech Stack](#-tech-stack) | [🚀 Projects](#-featured-projects) |
+| [🎯 About Me](#-about-me) | [💻 Tech Stack](#-tech-stack) | [🏆 Achievements](#-achievements--certifications) |
 |:---:|:---:|:---:|
-| [📊 GitHub Analytics](#-github-analytics) | [🏆 Achievements](#-achievements--certifications) | [🌐 Portfolio](#-portfolio) |
-| [📫 Connect](#-connect-with-me) | [💡 Quote](#-daily-dev-quote) | [🎵 Now Playing](#-now-playing-on-spotify) |
+| [🌐 Portfolio](#-portfolio) | [📫 Connect](#-connect-with-me) | [💡 Quote](#-daily-dev-quote) |
 
 </div>
 
@@ -151,135 +150,6 @@ const bharathi = {
 
 ![Tools](https://skillicons.dev/icons?i=git,github,windows,linux)
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🎯 Project One</h3>
-<div align="center">  
-<a href="YOUR_PROJECT_LINK" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Project"/>
-</a>
-<br>
-<br>
-<p>
-<a href="YOUR_GITHUB_REPO" target="_blank">
-<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=black">
-</a>  
-<a href="YOUR_DEMO_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=black">
-</a>
-</p>
-<p><strong>JavaScript, React, Firebase</strong> - A full-stack web application with modern UI/UX design and real-time features.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">📱 Project Two</h3>
-<div align="center">  
-<a href="YOUR_PROJECT_LINK" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbf0042-8878-4e17-b5fd-f37001ea7edd.gif" width="400" alt="Project"/>
-</a>
-<br>
-<br>
-<p>
-<a href="YOUR_GITHUB_REPO" target="_blank">
-<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=black">
-</a>  
-<a href="YOUR_DEMO_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Demo-00D9FF?style=for-the-badge&logo=android&logoColor=black">
-</a>
-</p>
-<p><strong>Flutter, Dart, Firebase</strong> - A cross-platform mobile app with beautiful animations and seamless performance.</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">🌐 Project Three</h3>
-<div align="center">  
-<a href="YOUR_PROJECT_LINK" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400" alt="Project"/>
-</a>
-<br>
-<br>
-<p>
-<a href="YOUR_GITHUB_REPO" target="_blank">
-<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=black">
-</a>  
-<a href="YOUR_DEMO_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black">
-</a>
-</p>
-<p><strong>Python, MongoDB, React</strong> - Full-stack solution with advanced data processing and visualization capabilities.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🔥 Project Four</h3>
-<div align="center">  
-<a href="YOUR_PROJECT_LINK" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Project"/>
-</a>
-<br>
-<br>
-<p>
-<a href="YOUR_GITHUB_REPO" target="_blank">
-<img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=black">
-</a>  
-<a href="YOUR_DEMO_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=netlify&logoColor=black">
-</a>
-</p>
-<p><strong>JavaScript, HTML, CSS</strong> - Clean and responsive web design with modern JavaScript features and smooth animations.</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="80%" alt="Contribution Graph"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -444,141 +314,6 @@ const bharathi = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true" target="_blank">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing"/>
-</a>
-
-<br>
-
-<p><em>🎧 Currently vibing to some great music while coding!</em></p>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Bharathi's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
-<br>
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p><em>🐍 Watch the snake eat my contributions!</em></p>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 💼 Work Experience
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 Freelance Developer
-**Self-Employed** | *2023 - Present*
-
-- 🚀 Building full-stack web applications
-- 📱 Developing cross-platform mobile apps
-- 🎨 Creating responsive UI/UX designs
-- 🔧 Maintaining and optimizing existing projects
-
-</td>
-<td width="50%">
-
-### 🎓 Open Source Contributor
-**Various Projects** | *2022 - Present*
-
-- 🌟 Contributing to open source projects
-- 👥 Collaborating with global developers
-- 📝 Writing technical documentation
-- 🐛 Fixing bugs and improving code quality
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🎯 Coding Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="50%" alt="Wakatime Stats"/>
-
-<br><br>
-
-### ⏱️ Weekly Development Breakdown
-
-<table>
-<tr>
-<td align="center"><strong>Most Used Languages</strong></td>
-<td align="center"><strong>Development Time</strong></td>
-</tr>
-<tr>
-<td>
-
-```text
-JavaScript   8 hrs 42 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   42.5%
-Python       4 hrs 15 mins   ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.8%
-Java         3 hrs 30 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.1%
-Dart         2 hrs 45 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.4%
-Other        1 hr 18 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.2%
-```
-
-</td>
-<td>
-
-```text
-💻 Coding      40 hrs/week
-🌙 Night Owl   65% at night
-☕ Weekends    45% productivity
-🚀 Streak      142 days
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
 ## 🎮 When I'm Not Coding
 
 <div align="center">
@@ -716,16 +451,6 @@ Other        1 hr 18 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.2
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF" alt="Jokes Card" />
 
-<br><br>
-
-### 🔮 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme"/>
-
-<br>
-
-<sub>Refresh for a new meme! 😄</sub>
-
 </div>
 
 <br>
@@ -815,90 +540,6 @@ graph LR
 <strong>"Collaborate"</strong>
 <br><br>
 <em>Together we can build amazing things</em>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🎯 2024 Goals
-
-<div align="center">
-
-- [x] ✅ Master React Advanced Patterns
-- [x] ✅ Build 10+ Full Stack Projects
-- [ ] 🚀 Contribute to 5 Major Open Source Projects
-- [ ] 📱 Launch 3 Mobile Apps
-- [ ] 🎓 Complete Advanced System Design Course
-- [ ] 📝 Write 20+ Technical Blog Posts
-- [ ] 🌟 Reach 1000 GitHub Stars
-- [ ] 💼 Land Dream Developer Role
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/REPO1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/REPO2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-</a>
-
-<br>
-
-<a href="https://github.com/YOUR_USERNAME/REPO3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/REPO4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🌟 Testimonials
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<strong>⭐⭐⭐⭐⭐</strong>
-<br><br>
-<em>"Bharathi is an exceptional developer with great problem-solving skills!"</em>
-<br><br>
-<strong>- Client Name</strong>
-<br>
-<sub>Project Manager</sub>
-</td>
-<td align="center">
-<strong>⭐⭐⭐⭐⭐</strong>
-<br><br>
-<em>"Excellent code quality and always delivers on time!"</em>
-<br><br>
-<strong>- Colleague Name</strong>
-<br>
-<sub>Senior Developer</sub>
 </td>
 </tr>
 </table>
@@ -1002,7 +643,7 @@ Connect with me on social media and let's build something amazing together! 🚀
     ║                                                                               ║
     ║                          Keep Coding, Keep Learning! 🚀                       ║
     ║                                                                               ║
-    ║                              © 2024 Bharathi B.                               ║
+    ║                              © 2026 Bharathi B.                               ║
     ║                                                                               ║
     ╚═══════════════════════════════════════════════════════════════════════════════╝
 -->
