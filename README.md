@@ -46,7 +46,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70">
 
-[![Languages](https://skillicons.dev/icons?i=java,js,py,dart)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=java,js,py,dart)
 
 <br>
 
@@ -56,7 +56,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="70">
 
-[![Frontend](https://skillicons.dev/icons?i=react,html,css,flutter)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=react,html,css,flutter)
 
 <br>
 
@@ -64,7 +64,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="70">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="70">
 
-[![Backend](https://skillicons.dev/icons?i=firebase,mongodb)](https://skillicons.dev)
+![Backend](https://skillicons.dev/icons?i=firebase,mongodb)
 
 <br>
 
@@ -74,7 +74,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="70">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="70">
 
-[![Tools](https://skillicons.dev/icons?i=git,github,windows,linux)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=git,github,windows,linux)
 
 </div>
 
@@ -118,20 +118,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
-</div>
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
