@@ -1,63 +1,106 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="280" alt="Futuristic mind sphere representing complex systems"/>
+<a href="https://www.bharathii.me">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Bharathi%20B.&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Automation&descAlignY=63&descSize=18" alt="Bharathi B. — AI, full-stack and automation developer" width="100%"/>
+</a>
 
-<h1>Bharathi B.</h1>
-
-**Software Engineer · AI Product Engineering · Automation Systems**
-
-I build at the intersection of intelligence and infrastructure,<br>
-transforming ambitious concepts into dependable, high-performance systems.
-
-<br>
+<h1>Building useful software from bold ideas.</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/AI_Product_Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8&labelColor=0F172A&color=38BDF8" alt="AI Product Engineering" />
-  <img src="https://img.shields.io/badge/Full--Stack_Systems-0F172A?style=for-the-badge&logo=react&logoColor=818CF8&labelColor=0F172A&color=818CF8" alt="Full-Stack Systems" />
-  <img src="https://img.shields.io/badge/Automation_&_IoT-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=2DD4BF&labelColor=0F172A&color=2DD4BF" alt="Automation and IoT" />
+  <a href="https://www.bharathii.me"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/bharathi54123"><strong>LinkedIn</strong></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bharathi-codes&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/bharathi-codes?label=Followers&style=flat-square&color=2563EB" alt="GitHub followers"/>
 </p>
 
 </div>
 
----
+## Hello, I'm Bharathi
 
-### ✦ Core Technology Layer
+I'm an **AI & Full-Stack Developer** from India who enjoys turning ambitious ideas into reliable, user-centered products. My work sits at the intersection of **AI integration, scalable web applications, mobile experiences, and automation**.
+
+I'm a **4× National Hackathon Finalist** and I enjoy the full build journey: shaping the idea, designing the experience, shipping the first version, and improving it with every iteration.
+
+```text
+Currently exploring  →  AI products · full-stack architecture · automation
+I enjoy building    →  intelligent tools · mobile apps · data-driven systems
+Open to             →  software engineering, AI development & open-source collaboration
+```
+
+## What I build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>✦ AI-powered products</h3>
+      <p>Practical tools that connect modern AI capabilities with clear, human-friendly experiences.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✦ Full-stack systems</h3>
+      <p>Thoughtful interfaces, dependable backends, and the infrastructure that connects them.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✦ Automation & IoT</h3>
+      <p>Systems that remove repetitive work and make real-world workflows more intelligent.</p>
+    </td>
+  </tr>
+</table>
+
+
+## Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="Java" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=818CF8&labelColor=0F172A&color=0F172A" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=818CF8&labelColor=0F172A&color=0F172A" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=2DD4BF&labelColor=0F172A&color=0F172A" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=2DD4BF&labelColor=0F172A&color=0F172A" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=F8FAFC&labelColor=0F172A&color=0F172A" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,dart,react,flutter,html,css,firebase,mongodb,git,github,linux,vscode&perline=8" alt="JavaScript, TypeScript, Python, Java, Dart, React, Flutter, HTML, CSS, Firebase, MongoDB, Git, GitHub, Linux and VS Code"/>
 </p>
 
-### ✦ Proof & Signals
+<details>
+<summary><strong>How I work</strong></summary>
+<br>
 
-- **4× National Hackathon Finalist** — Proven ability to build and ship rapidly under high-pressure constraints.
-- **Open-Source Mindset** — I build in small, testable steps, keep complexity honest, and leave every system easier to understand than I found it.
+- **Start with the user:** the best technical solution is the one that solves the right problem.
+- **Build in slices:** ship a clear first version, learn from it, then make it stronger.
+- **Keep it understandable:** clean boundaries and readable code make ambitious systems easier to evolve.
+- **Stay curious:** the fastest way to grow is to keep building outside the comfort zone.
 
----
+</details>
+
+## GitHub at a glance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharathi-codes&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=64748B&rank_icon=github&include_all_commits=true" height="170" alt="Bharathi's GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathi-codes&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B&langs_count=8" height="170" alt="Bharathi's most used languages"/>
+</div>
+
+## Let's build something meaningful
+
+If you're working on an ambitious product, an AI-enabled workflow, or an open-source idea with real users in mind, I'd love to hear about it.
 
 <div align="center">
 
-**Have an ambitious problem worth solving?**
-
-<br>
-
 <a href="https://www.bharathii.me">
-  <img src="https://img.shields.io/badge/Explore_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A&color=38BDF8&labelColor=38BDF8" alt="Explore Portfolio" />
+  <img src="https://img.shields.io/badge/Visit_my_portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bharathi54123">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://github.com/bharathi-codes">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-334155?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
 <br><br>
 
-<sub>Designed for clarity · Built for scale</sub>
+<img src="./assets/space-shooter.gif" width="720" alt="Animated space shooter generated from GitHub activity"/>
 
+<sub>Thanks for stopping by. Keep building. ✦</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563EB,100:0F172A&section=footer" alt="footer" width="100%"/>
 </div>
