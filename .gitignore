@@ -1,0 +1,35 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.cache
+*.swp
+
+# Build and dependency output
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+.nyc_output/
+test-results/
+__pycache__/
+*.pyc
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+credentials.json
+serviceAccountKey.json
